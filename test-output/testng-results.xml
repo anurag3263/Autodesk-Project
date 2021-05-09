@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-05-09T02:47:39Z" name="Default suite" finished-at="2021-05-09T02:48:21Z" duration-ms="41740">
+    <groups>
+    </groups>
+    <test started-at="2021-05-09T02:47:39Z" name="Default test" finished-at="2021-05-09T02:48:21Z" duration-ms="41740">
+      <class name="com.crm.vtiger.TestScript.TC_41_searchLeadByClickingOnPhone_Test">
+        <test-method is-config="true" signature="configBS()[pri:0, instance:com.crm.vtiger.TestScript.TC_41_searchLeadByClickingOnPhone_Test@7692d9cc]" started-at="2021-05-09T02:47:39Z" name="configBS" finished-at="2021-05-09T02:47:39Z" duration-ms="25" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBS -->
+        <test-method is-config="true" signature="configBT()[pri:0, instance:com.crm.vtiger.TestScript.TC_41_searchLeadByClickingOnPhone_Test@7692d9cc]" started-at="2021-05-09T02:47:39Z" name="configBT" finished-at="2021-05-09T02:47:39Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBT -->
+        <test-method is-config="true" signature="configBC()[pri:0, instance:com.crm.vtiger.TestScript.TC_41_searchLeadByClickingOnPhone_Test@7692d9cc]" started-at="2021-05-09T02:47:39Z" name="configBC" finished-at="2021-05-09T02:47:44Z" duration-ms="4429" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method is-config="true" signature="configBM()[pri:0, instance:com.crm.vtiger.TestScript.TC_41_searchLeadByClickingOnPhone_Test@7692d9cc]" started-at="2021-05-09T02:47:44Z" name="configBM" finished-at="2021-05-09T02:47:52Z" duration-ms="8590" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method signature="creatLead()[pri:0, instance:com.crm.vtiger.TestScript.TC_41_searchLeadByClickingOnPhone_Test@7692d9cc]" started-at="2021-05-09T02:47:52Z" name="creatLead" finished-at="2021-05-09T02:48:17Z" duration-ms="24312" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- creatLead -->
+        <test-method is-config="true" signature="configAM()[pri:0, instance:com.crm.vtiger.TestScript.TC_41_searchLeadByClickingOnPhone_Test@7692d9cc]" started-at="2021-05-09T02:48:17Z" name="configAM" finished-at="2021-05-09T02:48:20Z" duration-ms="3552" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method is-config="true" signature="configAC()[pri:0, instance:com.crm.vtiger.TestScript.TC_41_searchLeadByClickingOnPhone_Test@7692d9cc]" started-at="2021-05-09T02:48:20Z" name="configAC" finished-at="2021-05-09T02:48:21Z" duration-ms="798" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAC -->
+        <test-method is-config="true" signature="configAT()[pri:0, instance:com.crm.vtiger.TestScript.TC_41_searchLeadByClickingOnPhone_Test@7692d9cc]" started-at="2021-05-09T02:48:21Z" name="configAT" finished-at="2021-05-09T02:48:21Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAT -->
+        <test-method is-config="true" signature="configAS()[pri:0, instance:com.crm.vtiger.TestScript.TC_41_searchLeadByClickingOnPhone_Test@7692d9cc]" started-at="2021-05-09T02:48:21Z" name="configAS" finished-at="2021-05-09T02:48:21Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAS -->
+      </class> <!-- com.crm.vtiger.TestScript.TC_41_searchLeadByClickingOnPhone_Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
